@@ -1,0 +1,120 @@
+,ProgramID,FirstName,LastName,Program,Status,YearInProgram,AdvanceDate,Email
+1,69, Nikita Apte,Chalaka,Emergency Medicine,PRG 1,1st Year in Residency,7/1/25,Nikita.Chalaka@samc.com
+2,69, Maram,Cooper,Emergency Medicine,PRG 1,1st Year in Residency,7/1/25,Maram.Cooper001@samc.com
+3,69, Dildeep Kaur,Dhaliwal,Emergency Medicine,PRG 1,1st Year in Residency,7/1/25,Dildeep.Gill002@samc.com
+4,69, Adam Silvers,Macksoud,Emergency Medicine,PRG 1,1st Year in Residency,7/1/25,Adam.Macksoud@samc.com
+5,69, Erick Eduardo,Melara,Emergency Medicine,PRG 1,1st Year in Residency,7/1/25,Erick.Melara@samc.com
+6,69, Kareem,Mohamed,Emergency Medicine,PRG 1,1st Year in Residency,7/1/25,Kareem.Mohamed@samc.com
+7,69, Conrad N,Njamfa,Emergency Medicine,PRG 1,1st Year in Residency,7/1/25,Conrad.Njamfa@samc.com
+8,69, Lea Ann Salvador,Urita,Emergency Medicine,PRG 1,1st Year in Residency,7/1/25,Lea.Urita@samc.com
+9,69, Alexander,Fair,Emergency Medicine,PRG 2,2nd Year in Residency,7/1/25,Alex.Fair@samc.com
+10,69, Don,Ha,Emergency Medicine,PRG 2,2nd Year in Residency,7/1/25,Don.Ha@samc.com
+11,69, Stephen James,Howell,Emergency Medicine,PRG 2,2nd Year in Residency,7/1/25,Stephen.Howell@samc.com
+12,69, Lauren Jihyun,Ma,Emergency Medicine,PRG 2,2nd Year in Residency,7/1/25,Lauren.Ma@samc.com
+13,69, Joy,Muwanes,Emergency Medicine,PRG 2,2nd Year in Residency,7/1/25,Joy.Muwanes@samc.com
+14,69, Harry Gabriel,Nazario Díaz,Emergency Medicine,PRG 2,2nd Year in Residency,7/1/25,HarryG.NazarioDiaz@samc.com
+15,69, Alistaire Isa,Sarradet,Emergency Medicine,PRG 2,2nd Year in Residency,7/1/25,Alice.Sarradet@samc.com
+16,69, Tyler Worth,Stinson,Emergency Medicine,PRG 2,2nd Year in Residency,7/1/25,Tyler.Stinson@samc.com
+17,69, Gullrana,Ahmad,Emergency Medicine,PRG 3,3rd Year in Residency,7/1/25,Gull.Ahmad@samc.com
+18,69, Sriram Ellapragada,Cherukupalli,Emergency Medicine,PRG 3,3rd Year in Residency,7/1/25,Sriram.Cherukupalli@samc.com
+19,69, Christian,Deveraux,Emergency Medicine,PRG 3,3rd Year in Residency,7/1/25,Christian.Deveraux@samc.com
+20,69, Riley,Dickson,Emergency Medicine,PRG 3,3rd Year in Residency,7/1/25,Riley.Dickson@samc.com
+21,69, Timothy Michael,Fiscus,Emergency Medicine,PRG 3,3rd Year in Residency,7/1/25,Timothy.Fiscus@samc.com
+22,69, Jasmine,Gill,Emergency Medicine,PRG 3,3rd Year in Residency,7/1/25,Jasmine.Gill001@samc.com
+23,69, Christian Peter,Krauthammer,Emergency Medicine,PRG 3,3rd Year in Residency,7/1/25,Christian.Krauthammer001@samc.com
+24,69, Martin Charles,Young,Emergency Medicine,PRG 3,3rd Year in Residency,7/1/25,Marty.Young@samc.com
+25,2, Gabriel Jonathan,Allaf,Family Medicine,PRG 1,1st Year in Residency,7/1/25,Gabriel.Allaf@samc.com
+26,2, Brandon,Chin,Family Medicine,PRG 1,1st Year in Residency,7/1/25,Brandon.Chin@samc.com
+27,2, Roberto Carlos,Chin,Family Medicine,PRG 1,1st Year in Residency,7/1/25,Roberto.Chin@samc.com
+28,2, Rajinder Kaur,Dhesi,Family Medicine,PRG 1,1st Year in Residency,7/1/25,Rajinder.Dhesi001@samc.com
+29,2, Navdeep Kaur,Gill,Family Medicine,PRG 1,1st Year in Residency,7/1/25,Navdeep.Gill001@samc.com
+30,2, Haemi,Lee,Family Medicine,PRG 1,1st Year in Residency,7/1/25,Haemi.Lee@samc.com
+31,2, Natnicha,Noppornmongkul,Family Medicine,PRG 1,1st Year in Residency,7/1/25,AnneNatnicha.Noppornmongkul@samc.com
+32,2, Donghui,Park,Family Medicine,PRG 1,1st Year in Residency,7/1/25,Donghui.Park@samc.com
+33,2, Harrimal,Cheema,Family Medicine,PRG 2,2nd Year in Residency,7/1/25,Harrimal.Cheema@samc.com
+34,2, Arianna Michelle,Crediford,Family Medicine,PRG 2,2nd Year in Residency,7/1/25,Arianna.Crediford@samc.com
+35,2, Karanvir,Gill,Family Medicine,PRG 2,2nd Year in Residency,7/1/25,Karanvir.Gill@samc.com
+36,2, Nicholas Singh,Gill,Family Medicine,PRG 2,2nd Year in Residency,7/1/25,Nicholas.Gill@samc.com
+37,2, Zunayet,Karim,Family Medicine,PRG 2,2nd Year in Residency,7/1/25,Zunayet.Karim@samc.com
+38,2, Lydia Megan,Leung,Family Medicine,PRG 2,2nd Year in Residency,7/1/25,Lydia.Leung@samc.com
+39,2, Shelby,Wong,Family Medicine,PRG 2,2nd Year in Residency,7/1/25,Shelby.Wong001@samc.com
+40,2, Jennifer,Xu,Family Medicine,PRG 2,2nd Year in Residency,7/1/25,Jennifer.Xu@samc.com
+41,2, Maria Esther,Abeysekera,Family Medicine,PRG 3,3rd Year in Residency,7/1/25,Maria.Abeysekera@samc.com
+42,2, Yoelbis,Alcolea Tamayo,Family Medicine,PRG 3,3rd Year in Residency,7/1/25,Yoelbis.AlcoleaTamayo@samc.com
+43,2, Kuwar Prabhpreet Singh,Anand,Family Medicine,PRG 3,3rd Year in Residency,7/1/25,Kuwar.Anand@samc.com
+44,2, Chengan Tony,Chien,Family Medicine,PRG 3,3rd Year in Residency,7/1/25,Tony.Chien@samc.com
+45,2, Sean Sukgyu,Kim,Family Medicine,PRG 3,3rd Year in Residency,7/1/25,Sean.Kim@samc.com
+46,2, Tarab,Mansoor,Family Medicine,PRG 3,3rd Year in Residency,7/1/25,Tarab.Mansoor@samc.com
+47,2, Ronald Regin,Roque,Family Medicine,PRG 3,3rd Year in Residency,7/1/25,RonaldRegin.Roque@samc.com
+48,2, Louis Alexander,Rosales,Family Medicine,PRG 3,3rd Year in Residency,7/1/25,Louis.Rosales@samc.com
+49,1, Aftab,Arif,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Aftab.Arif@samc.com
+50,1, Sameed,Arshad,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Sameed.Arshad@samc.com
+51,1, Muhammad Bin,Aslam Zahid,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Muhammad.Zahid@samc.com
+52,1, Sukhman,Boparai,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Sukhman.Boparai@samc.com
+53,1, Batuhan,Cakmak,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Batuhan.Cakmak@samc.com
+54,1, Andrew Curtis *,Clark,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Andrew.Clark002@samc.com
+55,1, Sukhmeet,Dhillon,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Sukhmeet.Dhillon@samc.com
+56,1, Kamalpreet Kaur,Gill,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Kamalpreet.Gill@samc.com
+57,1, Maryam,Hadipour,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Maryam.Hadipour@samc.com
+58,1, Yazan,Haroun,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Yazan.Haroun@samc.com
+59,1, Dogan Sevki,Kalamanoglu,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,DoganSevki.Kalamanoglu@samc.com
+60,1, Abhishek Kumar,Karn,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,AbhishekK.Karn@samc.com
+61,1, Aramsadat,Meraji,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Aramsadat.Meraji@samc.com
+62,1, Yussif,Mohammed,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Yussif.Mohammed@samc.com
+63,1, Nasrin,Nikravangolsefid,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Nasrin.Nikravangolsefid@samc.com
+64,1, Moeez,Sadiq,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Moeez.Sadiq@samc.com
+65,1, Onkar Singh,Sandhu,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Onkar.Sandhu@samc.com
+66,1, Ajaypreet,Singh,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Ajaypreet.Singh@samc.com
+67,1, Mareza,Tatulyan,Internal Medicine,PRG 1,1st Year in Residency,8/1/25,Mareza.Tatulyan@samc.com
+68,1, Mahmut,Unverdi,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Mahmut.Unverdi@samc.com
+69,1, Sravan,Vemuri,Internal Medicine,PRG 1,1st Year in Residency,7/1/25,Sravan.Vemuri@samc.com
+70,1, Andrew Curtis,Clark,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Andrew.Clark002@samc.com
+71,1, Sager Singh,Deol,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Sager.Deol@samc.com
+72,1, Celise Nardes,Ferreira,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Celise.NardesFerreira@samc.com
+73,1, Shiva,Hadadianpour,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Shiva.Hadadianpour@samc.com
+74,1, Lev,Loffe,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,lev.ioffe@samc.com
+75,1, Hamna,Javed,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Hamna.Javed@samc.com
+76,1, Spencer Scott,Johnson,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Spencer.Johnson@samc.com
+77,1, Mehar,Kahlon,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Mehar.Kahlon@samc.com
+78,1, Rukhsar,Nadeem,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Rukhsar.Nadeem@samc.com
+79,1, Muhamad,Oum,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Muhamad.Oum@samc.com
+80,1, Nathanael Andres,Reyes,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Nathanael.Reyes@samc.com
+81,1, Nicholas Seth,Reyes,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Nicholas.Reyes@samc.com
+82,1, Reema,Salim,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Reema.Salim@samc.com
+83,1, Saman,Sepehr,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Saman.Sepehr@samc.com
+84,1, Ayesha,Shahzad,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Ayesha.Shahzad@samc.com
+85,1, Mahwish,Sheikh,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Mahwish.Sheikh@samc.com
+86,1, Saif Michel Yousef,Srouji,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Saif.Srouji@samc.com
+87,1, Salar,Tofighi,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Salar.Tofighi@samc.com
+88,1, Gisell Ghazal,Vakili,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Gisell.Vakili@samc.com
+89,1, Nasim,Zamani,Internal Medicine,PRG 2,2nd Year in Residency,7/1/25,Nasim.Zamani@samc.com
+90,1, Mahda,Alihashemi,Internal Medicine,PRG 3,3rd Year in Residency,11/3/25,Mahda.Alihashemi@samc.com
+91,1, John,Bacon,Internal Medicine,PRG 3,3rd Year in Residency,7/1/25,John.Bacon@samc.com
+92,1, Alexis Nicole,Bivona,Internal Medicine,PRG 3,3rd Year in Residency,7/1/25,Alexis.Bivona@samc.com
+93,1, Udayveer Singh,Brar,Internal Medicine,PRG 3,3rd Year in Residency,7/1/25,Udayveer.Brar@samc.com
+94,1, Jivitesh,Gaurav,Internal Medicine,PRG 3,3rd Year in Residency,7/1/25,Jivitesh.Gaurav@samc.com
+95,1, Ji Il,Jeon,Internal Medicine,PRG 3,3rd Year in Residency,7/1/25,Ji.Jeon@samc.com
+96,1, Swati Vivek,Joshi,Internal Medicine,PRG 3,3rd Year in Residency,7/1/25,Swati.Joshi@samc.com
+97,1, Kenia Yazmin,Reyna Blanco,Internal Medicine,PRG 3,3rd Year in Residency,7/1/25,Yazmin.Reyna@samc.com
+98,1, Vikram,Sharma,Internal Medicine,PRG 3,3rd Year in Residency,7/1/25,Vikram.Sharma@samc.com
+99,1, Atinderpal,Singh,Internal Medicine,PRG 3,3rd Year in Residency,7/1/25,Atinderpal.Singh@samc.com
+100,1, Ripjit,Singh,Internal Medicine,PRG 3,3rd Year in Residency,7/1/25,Ripjit.Singh@samc.com
+101,1, Parishad,Yakhchalian,Internal Medicine,PRG 3,3rd Year in Residency,7/1/25,Yakhchalian.Parishad@samc.com
+102,1, Kevin,Yao,Internal Medicine,PRG 3,3rd Year in Residency,7/1/25,Kevin.Yao@samc.com
+103,200, Ruben,Varghese,Sports Medicine,FEL 1,1st Year in Fellowship,7/1/25,ruben.varghese@samc.com
+104,35, Ahmad Belal,Al-Zughoul,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Ahmad.AlZughoul@samc.com
+105,35, Samuel,Francis,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Samuel.Francis@samc.com
+106,35, Irene,Harutyunyan,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Irene.Harutyunyan@samc.com
+107,35, Emily,Hong,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Emily.Hong001@samc.com
+108,35, Kendall,Johnson,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Romeo.Johnson@samc.com
+109,35, Brandon Eric,Knight,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Brandon.Knight001@samc.com
+110,35, Christian Alexander,Lee,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Christian.Lee@samc.com
+111,35, Kevin,Lee,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Kevin.Lee001@samc.com
+112,35, Nathalie Yingya,Ly,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Nathalie.Ly@samc.com
+113,35, Ali,Mahmoud,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Ali.Mahmoud001@samc.com
+114,35, Rowa,Mohamed,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Rowa.Mohamed@samc.com
+115,35, Robert Andrew,Price,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Robert.Price001@samc.com
+116,35, Hari,Randhawa,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Hari.Randhawa@samc.com
+117,35, Hyo Jin,Ryu,Transitional Year,PRG 1,1st Year in Residency,7/1/25,HyoJin.Ryu001@samc.com
+118,35, Jonathan August,Schulze,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Jo.Schulze@samc.com
+119,35, Debarshi,Sinha,Transitional Year,PRG 1,1st Year in Residency,7/1/25,Debarshi.Sinha@samc.com
