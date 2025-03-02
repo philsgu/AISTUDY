@@ -87,10 +87,7 @@ if st.session_state["authenticated"]:
         for dept in df2['Program'].unique():
             create_table(dept)    
         
-        
-    
-else:
-    st.error("Please authenticate to access the content")
+
 
 # Password migration utility (run once)
 # if st.toggle("Run password hashing migration (admin only)"):
