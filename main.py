@@ -42,7 +42,7 @@ if st.session_state["authenticated"]:
         json_key = st.secrets["Google_Secret"]
 
         today = datetime.today().strftime("%Y-%m-%d")
-        st.title("AI Study Incomplete Survey Dashboard")
+        st.title("AI Study Dashboard")
         st.subheader("This dashboard shows the number of incomplete surveys for each department.")
 
         st.subheader(today)
