@@ -12,6 +12,9 @@ conn = st.connection("supabase", type=SupabaseConnection)
 users = conn.table("Streamlit_Users").select("*").execute()
 #st.write(users)
 
+def create_google_url(share_url):
+    return share_url.replace("/edit?usp=sharing", "/gviz/tq?tqx=out:csv")
+
 client = login_form(
     user_tablename="Streamlit_Users",
     username_col="username",
@@ -43,20 +46,20 @@ if st.session_state["authenticated"]:
 
         st.subheader(today)
 
-        scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
-        credentials = ServiceAccountCredentials.from_json_keyfile_dict(json_key, scope)
-        client = gspread.authorize(credentials)
+        # scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
+        # credentials = ServiceAccountCredentials.from_json_keyfile_dict(json_key, scope)
+        # client = gspread.authorize(credentials)
 
-        spreadsheet = client.open_by_key(sheet1)
-        sheet = spreadsheet.get_worksheet(0)
-        data = sheet.get_all_values()
+        # spreadsheet = client.open_by_key(sheet1)
+        # sheet = spreadsheet.get_worksheet(0)
+        # data = sheet.get_all_values()
 
-        spreadsheet2 = client.open_by_key(sheet2)
-        sheet2 = spreadsheet2.get_worksheet(0)
-        data2 = sheet2.get_all_values()
+        # spreadsheet2 = client.open_by_key(sheet2)
+        # sheet2 = spreadsheet2.get_worksheet(0)
+        # data2 = sheet2.get_all_values()
 
-        df = pd.DataFrame(data[1:], columns=data[0])
-        df2 = pd.DataFrame(data2[1:], columns=data2[0])
+        df = pd.read_csv(create_google_url(sheet1)) #pd.DataFrame(data[1:], columns=data[0])
+        df2 = pd.read_csv(create_google_url(sheet2)) #pd.DataFrame(data2[1:], columns=data2[0])
         # Rename the column 'What is your samc email?' to 'Email' in df
         df.rename(columns={'What is your samc email?': 'Email'}, inplace=True)
         # Convert all email values to lowercase and remove any extraneous characters in df
