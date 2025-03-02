@@ -47,11 +47,11 @@ if st.session_state["authenticated"]:
         credentials = ServiceAccountCredentials.from_json_keyfile_dict(json_key, scope)
         client = gspread.authorize(credentials)
 
-        spreadsheet = client.open_by_url(sheet1)
+        spreadsheet = client.open_by_key(sheet1)
         sheet = spreadsheet.get_worksheet(0)
         data = sheet.get_all_values()
 
-        spreadsheet2 = client.open_by_url(sheet2)
+        spreadsheet2 = client.open_by_key(sheet2)
         sheet2 = spreadsheet2.get_worksheet(0)
         data2 = sheet2.get_all_values()
 
