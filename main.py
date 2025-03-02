@@ -41,7 +41,7 @@ if st.session_state["authenticated"]:
         sheet2 = st.secrets["Google_Sheet"]['sheet2']
         json_key = st.secrets["Google_Secret"]
 
-        today = datetime.today().strftime("%Y-%m-%d")
+        today = datetime.today().strftime("%m-%d-%Y")
         st.title("AI Study Dashboard")
         st.subheader("This dashboard shows the number of incomplete surveys for each department.")
 
