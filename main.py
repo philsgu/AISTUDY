@@ -42,7 +42,8 @@ if st.session_state["authenticated"]:
         json_key = st.secrets["Google_Secret"]
 
         today = datetime.today().strftime("%Y-%m-%d")
-        st.title("AI Study Tally Results Dashboard")
+        st.title("AI Study Incomplete Survey Dashboard")
+        st.subheader("This dashboard shows the number of incomplete surveys for each department.")
 
         st.subheader(today)
 
@@ -72,7 +73,8 @@ if st.session_state["authenticated"]:
         filtered = df2[~df2['Email'].isin(df['Email'])]
         print(len(filtered))
 
-        st.subheader(f"Total INCOMPLETE Survey: {len(filtered)}/{len(df2)}")
+        st.subheader(f"Total COMPLETED: {len(df2)-len(filtered)}/{len(df2)}")
+        st.write(f"No. of INCOMPLETE: {len(filtered)}")
         st.write(f"Percentage Incomplete: {(len(filtered)/len(df2))*100:.2f}%")
         st.write(f"Percentage Complete: {((len(df2)-len(filtered))/len(df2))*100:.2f}%")
 
