@@ -45,7 +45,7 @@ if st.session_state["authenticated"]:
         st.title("AI Study Dashboard")
         st.subheader("This dashboard shows the number of incomplete surveys for each department.")
 
-        st.image('tallyai-400_50.png', caption='https://tinyurl.com/tallyai', use_column_width=True)
+        st.image('tallyai-400_50.png', caption='https://tinyurl.com/tallyai')
 
         st.subheader(today)
 
