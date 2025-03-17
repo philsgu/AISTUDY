@@ -62,8 +62,8 @@ if st.session_state["authenticated"]:
         df = pd.read_csv(create_google_url(sheet1)) #pd.DataFrame(data[1:], columns=data[0])
         df2 = pd.read_csv(create_google_url(sheet2)) #pd.DataFrame(data2[1:], columns=data2[0])
         # Rename the column 'What is your samc email?' to 'Email' in df
-        df.rename(columns={'What is your samc email?': 'Email'}, inplace=True)
-        df2.rename(columns={'What is your samc email?': 'Email'}, inplace=True)
+        df.rename(columns={'What is your SAMC email?': 'Email'}, inplace=True)
+        df2.rename(columns={'What is your SAMC email?': 'Email'}, inplace=True)
         # Convert all email values to lowercase and remove any extraneous characters in df
         df['Email'] = df['Email'].str.lower().str.strip()
 
