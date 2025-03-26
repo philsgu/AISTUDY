@@ -76,7 +76,7 @@ if st.session_state["authenticated"]:
         filtered = df2[~df2['Email'].isin(df['Email'])]
         print(len(filtered))
 
-        st.subheader(f"Total COMPLETED: {len(df)/{len(df2)}")
+        st.subheader(f"Total COMPLETED: {len(df)}/{len(df2)}")
         st.write(f"No. of INCOMPLETE: {len(filtered)}")
         st.write(f"Percentage Incomplete: {(len(filtered)/len(df2))*100:.2f}%")
         st.write(f"Percentage Complete: {((len(df2)-len(filtered))/len(df2))*100:.2f}%")
